@@ -50,6 +50,7 @@ gems:
 - jekyll-seo-tag
 - jekyll-sitemap
 whitelist:
+- jemoji
 - jekyll-mentions
 - jekyll-redirect-from
 - jekyll-feed
