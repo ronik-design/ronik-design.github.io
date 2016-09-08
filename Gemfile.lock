@@ -147,15 +147,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
-  jekyll-feed
-  jekyll-gist
   jekyll-github-metadata
-  jekyll-mentions
-  jekyll-paginate
-  jekyll-redirect-from
-  jekyll-seo-tag
-  jekyll-sitemap
-  jemoji
 
 BUNDLED WITH
    1.12.5
