@@ -47,6 +47,7 @@ liquid:
   error_mode: lax
 repository: ronik-design/ronik-design.github.io
 gems:
+- jemoji
 - jekyll-seo-tag
 - jekyll-sitemap
 whitelist:
