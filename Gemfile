@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # GitHub Pages gem
 # gem 'github-pages', group: :jekyll_plugins
 
-gem 'jekyll'
+gem 'jekyll', '~> 3.2', '>= 3.2.1'
 
 # HTML Proofer, for simple tests
 gem 'html-proofer'
