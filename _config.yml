@@ -58,7 +58,6 @@ gems:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-github-metadata
 whitelist:
   - jekyll-mentions
   - jemoji
@@ -68,7 +67,6 @@ whitelist:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-github-metadata
 
 # Markdown Processors
 kramdown:
