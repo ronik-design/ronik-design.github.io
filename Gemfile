@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # GitHub Pages gem
-gem 'github-pages', group: :jekyll_plugins
+# gem 'github-pages', group: :jekyll_plugins
 
 # HTML Proofer, for simple tests
 gem 'html-proofer'
