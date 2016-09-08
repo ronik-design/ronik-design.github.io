@@ -33,7 +33,7 @@ exclude:
 - postcss.config.js
 - Gemfile
 - Gemfile.lock
-show_drafts:
+show_drafts: 
 limit_posts: 0
 future: false
 unpublished: false
