@@ -149,6 +149,7 @@ DEPENDENCIES
   html-proofer
   jekyll-feed
   jekyll-gist
+  jekyll-github-metadata
   jekyll-mentions
   jekyll-paginate
   jekyll-redirect-from
