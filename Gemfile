@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 # GitHub Pages gem
 # gem 'github-pages', group: :jekyll_plugins
 
+gem 'jekyll'
+
 # HTML Proofer, for simple tests
 gem 'html-proofer'
 
@@ -11,4 +13,13 @@ gem 'html-proofer'
 # hosting environment
 group :jekyll_plugins do
   # gem 'jekyll-github-metadata'
+  gem 'jekyll-'
+  gem 'jekyll-mentions'
+  gem 'jemoji'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-feed'
+  gem 'jekyll-paginate'
+  gem 'jekyll-gist'
+  gem 'jekyll-seo-tag'
 end
