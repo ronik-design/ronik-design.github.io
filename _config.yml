@@ -64,6 +64,7 @@ whitelist:
 - jekyll-seo-tag
 - jekyll-paginate
 - jekyll-gist
+- jekyll-github-metadata
 kramdown:
   auto_ids: true
   footnote_nr: 1
