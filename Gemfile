@@ -13,7 +13,6 @@ gem 'html-proofer'
 # hosting environment
 group :jekyll_plugins do
   # gem 'jekyll-github-metadata'
-  gem 'jekyll-'
   gem 'jekyll-mentions'
   gem 'jemoji'
   gem 'jekyll-redirect-from'
