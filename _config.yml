@@ -33,7 +33,7 @@ exclude:
 - postcss.config.js
 - Gemfile
 - Gemfile.lock
-show_drafts: 
+show_drafts:
 limit_posts: 0
 future: false
 unpublished: false
@@ -47,16 +47,14 @@ liquid:
   error_mode: lax
 repository: ronik-design/ronik-design.github.io
 gems:
-- jemoji
-- jekyll-seo-tag
-- jekyll-sitemap
-whitelist:
 - jekyll-mentions
+- jemoji
 - jekyll-redirect-from
+- jekyll-sitemap
 - jekyll-feed
 - jekyll-paginate
 - jekyll-gist
-- jekyll-github-metadata
+- jekyll-seo-tag
 kramdown:
   auto_ids: true
   footnote_nr: 1
