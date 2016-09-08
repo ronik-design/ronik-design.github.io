@@ -3,6 +3,6 @@ title: Something New.
 date: 2016-09-07 20:09:00 -04:00
 ---
 
-Here is an awesome new post 7 :thumbsup:!
+Here is an awesome new post 8 :thumbsup:!
 
 ![cern-object.jpg](/uploads/cern-object.jpg)
